@@ -1,6 +1,7 @@
 name: Release
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - "v*"
@@ -27,13 +28,15 @@ jobs:
       - name: Check JavaScript syntax
         run: npm run check
 
-      - name: Build unsigned macOS zip
+      - name: Build unsigned macOS app artifacts
         run: npm run app:dist
 
       - name: Upload GitHub Release artifacts
         uses: softprops/action-gh-release@v2
         with:
           files: |
+            release/*.dmg
             release/*.zip
             release/*.blockmap
           generate_release_notes: true
+          overwrite_files: true

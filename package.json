@@ -33,7 +33,7 @@
     "check": "node --check ./bin/codex-sidebar-recovery.js && node --check ./src/server.js && node --check ./src/recovery.js && node --check ./public/app.js && node --check ./electron/main.js",
     "app:dev": "electron .",
     "app:pack": "electron-builder --mac --dir",
-    "app:dist": "electron-builder --mac zip",
+    "app:dist": "electron-builder --mac",
     "app:dist:dmg": "electron-builder --mac dmg"
   },
   "engines": {
@@ -56,7 +56,7 @@
     "productName": "Codex 侧边栏恢复工具",
     "copyright": "Copyright © 2026 Codex Sidebar Recovery contributors",
     "publish": null,
-    "artifactName": "${productName}-${version}-${arch}.${ext}",
+    "artifactName": "codex-sidebar-recovery-${version}-${arch}.${ext}",
     "asar": true,
     "files": [
       "electron/**/*",
