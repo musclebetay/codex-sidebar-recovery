@@ -1,1 +1,139 @@
-IyBDb2RleCDkvqfovrnmoI/mgaLlpI3lt6XlhbcKCuS4gOS4qumdouWQkeS4reaWh+eUqOaIt+eahOacrOWcsOW3peWFt++8jOeUqOadpeaKiiBDb2RleCBEZXNrdG9wIOmHjOKAnOi/mOWcqOacrOacuuWOhuWPsuiusOW9leS4reOAgeS9huayoeacieWHuueOsOWcqOW3puS+p+agj+KAneeahOmhueebruWSjOS8muivneaBouWkjeWbnuadpeOAggoK5pSv5oyB5Lik56eN55So5rOV77ya5LiL6L295Y+M5Ye754mIIEFwcO+8jOaIluiAheeUqOS4gOadoSBgbnB4YCDlkb3ku6TlkK/liqjjgILnlYzpnaLkuK3li77pgInpobnnm67miJbkvJror53vvIzlhYjpooTop4jvvIzlho3lpIfku73lubbmgaLlpI3jgIIKCiFbQ29kZXgg5L6n6L655qCP5oGi5aSN5bel5YW355WM6Z2i5oiq5Zu+XShkb2NzL3NjcmVlbnNob3QucG5nKQoKIyMg5Y+M5Ye754mI5LiL6L29Cgrku44gR2l0SHViIFJlbGVhc2Ug5LiL6L295pyA5paw54mI5pys77yaCgotIGAuemlwYO+8muino+WOi+WQjuebtOaOpeWPjOWHuyBgLmFwcGDvvIzov5nmmK/nrKzkuIDniYjmjqjojZDliIblj5HmoLzlvI8KLSBgLmRtZ2DvvJrlj6/pgInlronoo4XljIXmoLzlvI/vvIzlj6/nlKggYG5wbSBydW4gYXBwOmRpc3Q6ZG1nYCDljZXni6zmnoTlu7oKCuesrOS4gOeJiCBtYWNPUyBBcHAg5pqC5pyq562+5ZCN44CB5pyqIG5vdGFyaXpl44CC5aaC5p6c57O757uf5o+Q56S64oCc5peg5rOV5omT5byA4oCd5oiW4oCc5p2l6Ieq6Lqr5Lu95LiN5piO55qE5byA5Y+R6ICF4oCd77yM5Y+v5Lul77yaCgoxLiDlnKggRmluZGVyIOmHjOWPs+mUriBBcHDvvIzpgInmi6nigJzmiZPlvIDigJ3jgIIKMi4g5oiW5Yiw4oCc57O757uf6K6+572uIOKGkiDpmpDnp4HkuI7lronlhajmgKfigJ3ph4zlhYHorrjmiZPlvIDjgIIKCkVsZWN0cm9uIOWPjOWHu+eJiOS4jeimgeaxgueUqOaIt+WuieijhSBOb2RlLmpz77yb5L2GIHYxIOS7jeS+nei1luezu+e7n+mHjOWPr+eUqOeahCBgc3FsaXRlM2Ag5ZG95Luk6KGM5bel5YW344CCCgojIyDlkb3ku6TooYzlv6vpgJ/lvIDlp4sKCmBgYGJhc2gKbnB4IGNvZGV4LXNpZGViYXItcmVjb3ZlcnkKYGBgCgrku47mnKzku5PlupPmnKzlnLDov5DooYzvvJoKCmBgYGJhc2gKbnBtIHN0YXJ0CmBgYAoK5bel5YW35Lya5ZyoIGAxMjcuMC4wLjFgIOWQr+WKqOacrOWcsOacjeWKoe+8jOiHquWKqOaJk+W8gOa1j+iniOWZqO+8jOW5tuaJq+aPj+S9oOeahCBgfi8uY29kZXhgIOeKtuaAgeaWh+S7tuOAguaJgOacieaVsOaNruWPquWcqOacrOacuuivu+WPlu+8jOS4jeS8muS4iuS8oOOAggoKIyMg5ZG95Luk5Y+C5pWwCgpgYGBiYXNoCmNvZGV4LXNpZGViYXItcmVjb3ZlcnkgWy0tY29kZXgtaG9tZSA8cGF0aD5dIFstLXBvcnQgPG51bWJlcj5dIFstLW5vLW9wZW5dCmBgYAoKLSBgLS1jb2RleC1ob21lIDxwYXRoPmDvvJrmjIflrpogQ29kZXgg5pWw5o2u55uu5b2V77yM6buY6K6k5pivIGB+Ly5jb2RleGAKLSBgLS1wb3J0IDxudW1iZXI+YO+8muaMh+WumuacrOWcsOerr+WPo++8jOm7mOiupCBgODc2NWAKLSBgLS1uby1vcGVuYO+8muWPquWQr+WKqOacjeWKoe+8jOS4jeiHquWKqOaJk+W8gOa1j+iniOWZqAoKIyMg5a6D5Lya6K+75Y+W5LuA5LmICgrlt6XlhbfkvJror7vlj5YgQ29kZXggRGVza3RvcCDnmoTmnKzlnLDnirbmgIHvvJoKCi0gYH4vLmNvZGV4L3N0YXRlXzUuc3FsaXRlYAotIGB+Ly5jb2RleC8uY29kZXgtZ2xvYmFsLXN0YXRlLmpzb25gCi0gYH4vLmNvZGV4L3Nlc3Npb25faW5kZXguanNvbmxgCi0g5pWw5o2u5bqT5Lit5byV55So55qE5Lya6K+dIHJvbGxvdXQgSlNPTkwg5paH5Lu2CgrlroPkvJrmiorkvaDpgInmi6nnmoTkvJror53lkIzmraXliLDlvZPliY0gQ29kZXggRGVza3RvcCDliY3nq6/lrp7pmYXor7vlj5bnmoTkvqfovrnmoI/nirbmgIHvvJoKCi0gYHNpZGViYXItcHJvamVjdC10aHJlYWQtb3JkZXJzYAotIGBzaWRlYmFyLWNoYXQtdGhyZWFkLW9yZGVyYAotIGBwaW5uZWQtdGhyZWFkLWlkc2AKLSBgcGlubmVkLXByb2plY3QtaWRzYAotIGB0aHJlYWQtd29ya3NwYWNlLXJvb3QtaGludHNgCi0gd29ya3NwYWNlIHJvb3RzIOWSjCBwZXJzaXN0ZWQgc2lkZWJhciBhdG9tcwoK6buY6K6k5Y+q5oGi5aSN5Li75Lya6K+d77yaYGFyY2hpdmVkID0gMGDjgIFgaGFzX3VzZXJfZXZlbnQgPSAxYOOAgWBzb3VyY2UgPSAndnNjb2RlJ2DjgIIKCuW3suW9kuaho+S8muivneS8muWcqOeVjOmdouS4reWxleekuu+8jOS9hum7mOiupOS4jeS8muaBouWkje+8m+WmguaenOS9oOaYjuehruWLvumAieKAnOaBouWkjeW3suW9kuaho+KAne+8jOW3peWFt+S8muWFiOWPlua2iOW9kuaho+WGjeaBouWkjeOAguWtkOS7o+eQhuS8muivneWPquS9nOS4uuWPguiAg+Wxleekuu+8jOS4jeS8muWhnui/m+S4u+S+p+i+ueagj+OAggoKIyMg5a6J5YWo562W55WlCgotIOKAnOmihOiniOKAneaYr+WPquivu+aTjeS9nO+8jOS4jeaUueS7u+S9leaWh+S7tuOAggotIOKAnOaJp+ihjOaBouWkjeKAneWJjeS4gOWumuS8muWIm+W7uuWkh+S7veOAggotIOacrOWcsOacjeWKoeWPquebkeWQrCBgMTI3LjAuMC4xYOOAggotIOavj+asoeWQr+WKqOmDveS8mueUn+aIkOmaj+acuiB0b2tlbu+8jOa1j+iniOWZqCBVUkwg5Lit5pC65bim6K+lIHRva2Vu44CCCi0g5LiN5LiK5Lyg5pWw5o2u77yM5LiN6K+35rGC5aSW6YOo5pyN5Yqh77yM5LiN5pS26ZuG5pel5b+X44CCCgrlpIfku73nm67lvZXvvJoKCmBgYHRleHQKfi8uY29kZXgvcmVwYWlyX2JhY2t1cHMvc2lkZWJhci1yZWNvdmVyeS1ZWVlZTU1EREhITU1TUy8KYGBgCgrmr4/mrKHlpIfku73ljIXlkKvvvJoKCi0gYHN0YXRlXzUuYmVmb3JlLnNxbGl0ZWAKLSBgY29kZXgtZ2xvYmFsLXN0YXRlLmJlZm9yZS5qc29uYAotIOWmguaenOWtmOWcqOWImeWMheWQqyBgc2Vzc2lvbl9pbmRleC5iZWZvcmUuanNvbmxgCi0g6KKr6YCJ5Lit5Lya6K+d5a+55bqU55qEIHJvbGxvdXQgSlNPTkwg5paH5Lu2Ci0gYHJlc3RvcmUtcmVwb3J0Lmpzb25gCgojIyDns7vnu5/opoHmsYIKCi0gbWFjT1MgKyBDb2RleCBEZXNrdG9wCi0gTm9kZS5qcyAxOCsKLSDlkb3ku6TooYzkuK3lj6/ku6Xkvb/nlKggYHNxbGl0ZTNgCgp2MSDniYjmnKzkvJjlhYjmlK/mjIEgbWFjT1PjgILku6PnoIHph4zlsL3ph4/kuI3lhpnmrbvnlKjmiLflkI3lkoznu53lr7not6/lvoTvvIzlkI7nu63lj6/ku6XmianlsZXliLAgV2luZG93cy9MaW51eO+8jOS9huW9k+WJjeato+W8j+aUr+aMgeebruagh+aYryBtYWNPUyBDb2RleCBEZXNrdG9w44CCCgojIyDluLjop4Hpl67popgKCiMjIyDkuLrku4DkuYjmnInkupvml6fkvJror53nnIvkuI3liLDvvJ8KCuWFiOivleivleaQnOe0oumhueebrui3r+W+hOOAgeagh+mimOaIluS8muivnSBJRO+8jOW5tuWLvumAieKAnOaYvuekuuW3suW9kuaho+KAneOAguWtkOS7o+eQhuS8muivneS8muaYvuekuuS4uuKAnOWtkOS7o+eQhuKAne+8jOS9huS4jeS8muaBouWkjeWIsOS4u+S+p+i+ueagj+OAggoKIyMjIOS4uuS7gOS5iOaJp+ihjOaBouWkjeWJjeimgemAgOWHuiBDb2RleO+8nwoKQ29kZXgg6L+Q6KGM5pe25Y+v6IO95oqK5L6n6L655qCP54q25oCB5L+d5a2Y5Zyo5YaF5a2Y6YeM44CC5aaC5p6c5LiA6L656L+Q6KGM5LiA6L655YaZ5paH5Lu277yMQ29kZXgg6YCA5Ye65pe25Y+v6IO95oqK5L+u5aSN57uT5p6c6KaG55uW5o6J44CC5YWI6YCA5Ye65YaN5YaZ5YWl77yM57uT5p6c5pu056iz5a6a44CCCgojIyMgUHJvdmlkZXIg6L+B56e75piv5LuA5LmI5oSP5oCd77yfCgrlpoLmnpzkvaDmjaLov4cgQVBJIGtleSDmiJYgcHJvdmlkZXLvvIzml6fkvJror53orrDlvZXlj6/og73ov5jmjIflkJHku6XliY3nmoQgcHJvdmlkZXLjgILli77pgInigJzov4Hnp7sgUHJvdmlkZXLigJ3lkI7vvIzlt6XlhbfkvJrmiorpgInkuK3kvJror53nmoQgcHJvdmlkZXIg5pu05paw5oiQIGB+Ly5jb2RleC9jb25maWcudG9tbGAg5Lit5b2T5YmN55qEIHByb3ZpZGVy44CCCgojIyMg5oCO5LmI5pKk5Zue5LiA5qyh5oGi5aSN77yfCgrmiZPlvIDmiqXlkYrph4znmoTlpIfku73nm67lvZXjgILph4zpnaLmnInmgaLlpI3liY3nmoQgU1FMaXRlIOaVsOaNruW6k+OAgeWFqOWxgOeKtuaAgeOAgXNlc3Npb24gaW5kZXgg5ZKM6YCJ5Lit5Lya6K+dIHJvbGxvdXQg5paH5Lu244CCCgojIyDlvIDlj5EKCmBgYGJhc2gKbnBtIHJ1biBjaGVjawpucG0gcGFjayAtLWRyeS1ydW4Kbm9kZSAuL2Jpbi9jb2RleC1zaWRlYmFyLXJlY292ZXJ5LmpzIC0tbm8tb3BlbgpucG0gcnVuIGFwcDpkZXYKbnBtIHJ1biBhcHA6cGFjawpucG0gcnVuIGFwcDpkaXN0Cm5wbSBydW4gYXBwOmRpc3Q6ZG1nCmBgYAoK6aG555uu5Yi75oSP5L2/55SoIE5vZGUg5YaF572u5qih5Z2X5ZKM5Y6f55Sf5rWP6KeI5ZmoIEphdmFTY3JpcHTvvIzkuI3lvJXlhaUgUmVhY3QvVml0ZeOAgkVsZWN0cm9uIOWPquS9nOS4uuWPjOWHu+eJiOahjOmdouWkluWjs++8jOaguOW/g+aBouWkjemAu+i+keS7jeWcqOacrOWcsOacjeWKoeS4reOAggoKIyMg5byA5rqQ5Y+R5biDCgrpppbmrKHlj5HluIPliLAgR2l0SHVi44CB5omTIHRhZ+OAgeS4iuS8oCBSZWxlYXNl44CB5Y+R5biDIG5wbSDnmoTmraXpqqTop4HvvJoKCltkb2NzL1JFTEVBU0UubWRdKGRvY3MvUkVMRUFTRS5tZCkKCiMjIExpY2Vuc2UKCk1JVAo=
+# Codex 侧边栏恢复工具
+
+一个面向中文用户的本地工具，用来把 Codex Desktop 里“还在本机历史记录中、但没有出现在左侧栏”的项目和会话恢复回来。
+
+支持两种用法：下载双击版 App，或者用一条 `npx` 命令启动。界面中勾选项目或会话，先预览，再备份并恢复。
+
+![Codex 侧边栏恢复工具界面截图](docs/screenshot.png)
+
+## 双击版下载
+
+从 GitHub Release 下载最新版本：
+
+- `.zip`：解压后直接双击 `.app`，这是第一版推荐分发格式
+- `.dmg`：可选安装包格式，可用 `npm run app:dist:dmg` 单独构建
+
+第一版 macOS App 暂未签名、未 notarize。如果系统提示“无法打开”或“来自身份不明的开发者”，可以：
+
+1. 在 Finder 里右键 App，选择“打开”。
+2. 或到“系统设置 → 隐私与安全性”里允许打开。
+
+Electron 双击版不要求用户安装 Node.js；但 v1 仍依赖系统里可用的 `sqlite3` 命令行工具。
+
+## 命令行快速开始
+
+```bash
+npx codex-sidebar-recovery
+```
+
+从本仓库本地运行：
+
+```bash
+npm start
+```
+
+工具会在 `127.0.0.1` 启动本地服务，自动打开浏览器，并扫描你的 `~/.codex` 状态文件。所有数据只在本机读取，不会上传。
+
+## 命令参数
+
+```bash
+codex-sidebar-recovery [--codex-home <path>] [--port <number>] [--no-open]
+```
+
+- `--codex-home <path>`：指定 Codex 数据目录，默认是 `~/.codex`
+- `--port <number>`：指定本地端口，默认 `8765`
+- `--no-open`：只启动服务，不自动打开浏览器
+
+## 它会读取什么
+
+工具会读取 Codex Desktop 的本地状态：
+
+- `~/.codex/state_5.sqlite`
+- `~/.codex/.codex-global-state.json`
+- `~/.codex/session_index.jsonl`
+- 数据库中引用的会话 rollout JSONL 文件
+
+它会把你选择的会话同步到当前 Codex Desktop 前端实际读取的侧边栏状态：
+
+- `sidebar-project-thread-orders`
+- `sidebar-chat-thread-order`
+- `pinned-thread-ids`
+- `pinned-project-ids`
+- `thread-workspace-root-hints`
+- workspace roots 和 persisted sidebar atoms
+
+默认只恢复主会话：`archived = 0`、`has_user_event = 1`、`source = 'vscode'`。
+
+已归档会话会在界面中展示，但默认不会恢复；如果你明确勾选“恢复已归档”，工具会先取消归档再恢复。子代理会话只作为参考展示，不会塞进主侧边栏。
+
+## 安全策略
+
+- “预览”是只读操作，不改任何文件。
+- “执行恢复”前一定会创建备份。
+- 本地服务只监听 `127.0.0.1`。
+- 每次启动都会生成随机 token，浏览器 URL 中携带该 token。
+- 不上传数据，不请求外部服务，不收集日志。
+
+备份目录：
+
+```text
+~/.codex/repair_backups/sidebar-recovery-YYYYMMDDHHMMSS/
+```
+
+每次备份包含：
+
+- `state_5.before.sqlite`
+- `codex-global-state.before.json`
+- 如果存在则包含 `session_index.before.jsonl`
+- 被选中会话对应的 rollout JSONL 文件
+- `restore-report.json`
+
+## 系统要求
+
+- macOS + Codex Desktop
+- Node.js 18+
+- 命令行中可以使用 `sqlite3`
+
+v1 版本优先支持 macOS。代码里尽量不写死用户名和绝对路径，后续可以扩展到 Windows/Linux，但当前正式支持目标是 macOS Codex Desktop。
+
+## 常见问题
+
+### 为什么有些旧会话看不到？
+
+先试试搜索项目路径、标题或会话 ID，并勾选“显示已归档”。子代理会话会显示为“子代理”，但不会恢复到主侧边栏。
+
+### 为什么执行恢复前要退出 Codex？
+
+Codex 运行时可能把侧边栏状态保存在内存里。如果一边运行一边写文件，Codex 退出时可能把修复结果覆盖掉。先退出再写入，结果更稳定。
+
+### Provider 迁移是什么意思？
+
+如果你换过 API key 或 provider，旧会话记录可能还指向以前的 provider。勾选“迁移 Provider”后，工具会把选中会话的 provider 更新成 `~/.codex/config.toml` 中当前的 provider。
+
+### 怎么撤回一次恢复？
+
+打开报告里的备份目录。里面有恢复前的 SQLite 数据库、全局状态、session index 和选中会话 rollout 文件。
+
+## 开发
+
+```bash
+npm run check
+npm pack --dry-run
+node ./bin/codex-sidebar-recovery.js --no-open
+npm run app:dev
+npm run app:pack
+npm run app:dist
+npm run app:dist:dmg
+```
+
+项目刻意使用 Node 内置模块和原生浏览器 JavaScript，不引入 React/Vite。Electron 只作为双击版桌面外壳，核心恢复逻辑仍在本地服务中。
+
+## 开源发布
+
+首次发布到 GitHub、打 tag、上传 Release、发布 npm 的步骤见：
+
+[docs/RELEASE.md](docs/RELEASE.md)
+
+## License
+
+MIT
