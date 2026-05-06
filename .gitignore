@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+*.tgz
+coverage/
+dist/
+release/
+.env
+
+# Local one-off repair scripts; keep them out of the public repo by default.
+restore_algo_fct_sidebar.js
+pin_algo_fct_threads.js

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Codex 侧边栏恢复工具</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Codex 侧边栏恢复工具</h1>
+        <p id="subtitle">扫描本机 Codex 历史会话，先预览变更，再把选中的会话恢复到左侧栏。</p>
+      </div>
+      <button id="refreshBtn" class="ghost">刷新</button>
+    </header>
+
+    <main class="shell">
+      <section class="status-row" id="statusRow">
+        <div class="status-card">
+          <span class="label">Codex 数据目录</span>
+          <strong id="codexHome">加载中...</strong>
+        </div>
+        <div class="status-card">
+          <span class="label">当前 Provider</span>
+          <strong id="provider">-</strong>
+        </div>
+        <div class="status-card">
+          <span class="label">Codex 进程</span>
+          <strong id="codexRunning">-</strong>
+        </div>
+        <div class="status-card">
+          <span class="label">SQLite</span>
+          <strong id="sqliteStatus">-</strong>
+        </div>
+      </section>
+
+      <section id="errorBox" class="error-box hidden"></section>
+
+      <section class="controls">
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="项目路径、标题、会话 ID">
+        </label>
+        <div class="toggles">
+          <label><input id="showArchived" type="checkbox"> 显示已归档</label>
+          <label><input id="restoreArchived" type="checkbox"> 恢复已归档</label>
+          <label><input id="pinProjects" type="checkbox" checked> 置顶项目</label>
+          <label><input id="pinThreads" type="checkbox" checked> 置顶会话</label>
+          <label><input id="touchTargets" type="checkbox" checked> 提到最近</label>
+          <label><input id="migrateProvider" type="checkbox" checked> 迁移 Provider</label>
+          <label><input id="quitCodex" type="checkbox" checked> 写入前退出 Codex</label>
+          <label><input id="launchCodex" type="checkbox" checked> 恢复后启动 Codex</label>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <aside class="panel projects-panel">
+          <div class="panel-head">
+            <h2>项目</h2>
+            <button id="clearSelectionBtn" class="ghost small">清空</button>
+          </div>
+          <div id="projectsList" class="list"></div>
+        </aside>
+
+        <section class="panel threads-panel">
+          <div class="panel-head">
+            <h2>会话</h2>
+            <div class="count" id="selectionCount">已选择 0 个</div>
+          </div>
+          <div id="threadsList" class="thread-list"></div>
+        </section>
+      </section>
+
+      <section class="actions">
+        <button id="previewBtn">预览</button>
+        <button id="applyBtn" disabled>执行恢复</button>
+        <span id="actionHint">预览只读；执行恢复会先创建备份，再写入 Codex 状态。</span>
+      </section>
+
+      <section class="panel report-panel">
+        <div class="panel-head">
+          <h2>预览 / 报告</h2>
+        </div>
+        <pre id="reportBox">还没有预览。</pre>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

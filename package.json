@@ -1,0 +1,82 @@
+{
+  "name": "codex-sidebar-recovery",
+  "version": "0.1.0",
+  "description": "面向中文用户的 Codex Desktop 侧边栏会话恢复工具。",
+  "license": "MIT",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musclebetay/codex-sidebar-recovery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/musclebetay/codex-sidebar-recovery/issues"
+  },
+  "homepage": "https://github.com/musclebetay/codex-sidebar-recovery#readme",
+  "type": "commonjs",
+  "main": "./electron/main.js",
+  "bin": {
+    "codex-sidebar-recovery": "./bin/codex-sidebar-recovery.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "public",
+    "electron",
+    "docs",
+    "README.md",
+    "LICENSE",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ],
+  "scripts": {
+    "start": "node ./bin/codex-sidebar-recovery.js",
+    "check": "node --check ./bin/codex-sidebar-recovery.js && node --check ./src/server.js && node --check ./src/recovery.js && node --check ./public/app.js && node --check ./electron/main.js",
+    "app:dev": "electron .",
+    "app:pack": "electron-builder --mac --dir",
+    "app:dist": "electron-builder --mac zip",
+    "app:dist:dmg": "electron-builder --mac dmg"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "codex",
+    "sidebar",
+    "recovery",
+    "desktop",
+    "threads",
+    "chinese"
+  ],
+  "devDependencies": {
+    "electron": "^42.0.0",
+    "electron-builder": "^26.8.1"
+  },
+  "build": {
+    "appId": "dev.codex-sidebar-recovery.app",
+    "productName": "Codex 侧边栏恢复工具",
+    "copyright": "Copyright © 2026 Codex Sidebar Recovery contributors",
+    "publish": null,
+    "artifactName": "${productName}-${version}-${arch}.${ext}",
+    "asar": true,
+    "files": [
+      "electron/**/*",
+      "src/**/*",
+      "public/**/*",
+      "package.json",
+      "LICENSE",
+      "README.md"
+    ],
+    "mac": {
+      "category": "public.app-category.utilities",
+      "target": [
+        "dmg",
+        "zip"
+      ],
+      "identity": null
+    },
+    "dmg": {},
+    "directories": {
+      "output": "release"
+    }
+  }
+}

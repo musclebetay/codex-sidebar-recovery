@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Codex 侧边栏恢复工具截图占位</title>
+  <desc id="desc">项目截图占位图。</desc>
+  <rect width="1200" height="720" fill="#f6f7f8"/>
+  <rect x="80" y="72" width="1040" height="576" rx="12" fill="#fff" stroke="#d8dee4"/>
+  <rect x="112" y="112" width="976" height="56" rx="8" fill="#eef3f8"/>
+  <rect x="112" y="200" width="320" height="392" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+  <rect x="464" y="200" width="624" height="392" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+  <text x="600" y="365" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="700" fill="#1f2328">Codex 侧边栏恢复工具</text>
+  <text x="600" y="412" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#66707a">发布前请替换为真实界面截图。</text>
+</svg>
