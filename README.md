@@ -114,26 +114,6 @@ Codex 运行时可能把侧边栏状态保存在内存里。如果一边运行�
 
 打开报告里的备份目录。里面有恢复前的 SQLite 数据库、全局状态、session index 和选中会话 rollout 文件。
 
-## 开发
-
-```bash
-npm run check
-npm pack --dry-run
-node ./bin/codex-sidebar-recovery.js --no-open
-npm run app:dev
-npm run app:pack
-npm run app:dist
-npm run app:dist:dmg
-```
-
-项目刻意使用 Node 内置模块和原生浏览器 JavaScript，不引入 React/Vite。Electron 只作为双击版桌面外壳，核心恢复逻辑仍在本地服务中。
-
-## 开源发布
-
-首次发布到 GitHub、打 tag、上传 Release、发布 npm 的步骤见：
-
-[docs/RELEASE.md](docs/RELEASE.md)
-
 ## License
 
 MIT
